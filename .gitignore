@@ -3,3 +3,10 @@
 *.row
 *.mpits
 *.xml
+*.h
+*.o
+*.3
+*.html
+*.sym
+*.mpit
+Make.*
