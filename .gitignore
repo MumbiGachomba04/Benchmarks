@@ -9,4 +9,14 @@
 *.html
 *.sym
 *.mpit
+*.err
+*.out
+*.stmp
+*.ttmp
+*.sh
+*.jpg
+*.png
+*.gif
+*.spawn
 Make.*
+
